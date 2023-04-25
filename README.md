@@ -4,7 +4,7 @@
 
 I'm Pía, Fullstack developer from <img src="https://img.icons8.com/color/512/argentina-circular.png" width="13"/> <b>Buenos Aires, Argentina</b>, currently living in <img src="https://img.icons8.com/color/512/spain2-circular.png" width="13"/> <b>Madrid, Spain</b>. </p>
 
-<p>Enjoying and learning as much as posible! 😄</p>
+<p>Enjoying life and learning as much as posible! 😄</p>
 
 ### Languages & Tools:
 
